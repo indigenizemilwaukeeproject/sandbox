@@ -1,11 +1,11 @@
 # Indigenize Milwaukee Project
 ## A project by Dr. Bryan Rindfleisch (Marquette University) 
 with assistance from
- - Clare Camblin (2021)
- - Cameron Fronczak (2021)
- - Alex Liberato (2021)
+ - Clare Camblin (Summer 2021)
+ - Cameron Fronczak (Summer 2021)
+ - Alex Liberato (Spring 2021)
  
-and the Digital Scholarship Lab at the Raynor Memorial Libraries
+and the [Digital Scholarship Lab](https://www.marquette.edu/library/digital-scholarship/) at the Raynor Memorial Libraries
 
 
 ## Live links
