@@ -1,4 +1,10 @@
-Indigenize Milwaukee Project
+# Indigenize Milwaukee Project
+## A project by Dr. Bryan Rindfleisch (Marquette University) 
+with assistance from
+ - Clare Camblin (2021)
+ - Cameron Fronczak (2021)
+ - Alex Liberato (2021)
+
 
 ## Live links (replace with your own)
 - Leaflet Map https://indigenizemilwaukeeproject.github.io/Final-Works-in-Progress/#2
