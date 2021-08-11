@@ -14,7 +14,7 @@ The city of Milwaukee, Wisconsin is home to a vibrant, polyglot community of Ind
 
 
 ## Direct Links
-- Map https://indigenizemilwaukeeproject.github.io/Final-Works-in-Progress/#2
+- Map https://indigenizemilwaukeeproject.github.io/Final-Works-in-Progress/
 - Data https://docs.google.com/spreadsheets/d/1PjATYdWSb9-loXbIu09RaQVfVjPFgWP_lSKPhW25_kI/edit#gid=0
 
 
