@@ -1,20 +1,24 @@
 # Indigenize Milwaukee Project
-## A project by Dr. Bryan Rindfleisch (Marquette University) 
-with assistance from
+## A Project of the MU Indigeneity Lab, faculty lead Dr. Bryan Rindfleisch, and student researchers 
  - Clare Camblin (Summer 2021)
  - Cameron Fronczak (Summer 2021)
  - Alex Liberato (Spring 2021)
  
-and the [Digital Scholarship Lab](https://www.marquette.edu/library/digital-scholarship/) at the Raynor Memorial Libraries
+and with Elizabeth Wawrzyniak and the [Digital Scholarship Lab](https://www.marquette.edu/library/digital-scholarship/) at the Raynor Memorial Libraries
+
+## Funding for this project was provided by a generous grant from the Joerres Family Fund
+
+## Project Description
+The city of Milwaukee, Wisconsin is home to a vibrant, polyglot community of Indigenous Peoples from throughout North America. However, non-Native awareness of this flourishing community is minimal if at all, evidenced by the appropriations of Indigenous peoples, cultures, and languages in the greater Milwaukee area and the broader erasure of Native narratives in the past and present. To counter this erasure, a team of Native and non-Native faculty, staff, and undergraduate students at Marquette University have embarked on a multi-project forum called the Indigeneity Lab, and one particular project – Indigenizing Milwaukee – combines historical research and digital humanities to create a virtual map of Milwaukee that transforms its many spaces/places into Native spaces/places. This map, then, takes present day locations like the Marquette campus, the Milwaukee Lakefront, Harley Davidson, American Family Field, Fiserv Forum, the Third Ward, and historical landmarks like the Solomon Juneau and Leif Ericsson statues and illustrates the Indigenous roots of those spaces/places as well as the continued influence of Milwaukee’s Indigenous community upon those spaces/places. While in the formative stages, this project has identified 136 spaces/places to be “Indigenized” and <em>each entry will integrate and embed text, photos, primary sources, video, and oral interviews with Indigenous community members throughout</em>.
 
 
-## Live links
+## Direct Links
 - Map https://indigenizemilwaukeeproject.github.io/Final-Works-in-Progress/#2
 - Data https://docs.google.com/spreadsheets/d/1PjATYdWSb9-loXbIu09RaQVfVjPFgWP_lSKPhW25_kI/edit#gid=0
 
 
 
-## Credits (and licenses)
+## Leaflet Map Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
 We use [Google Sheets API version 4](https://developers.google.com/sheets/api), with these open-source components:
